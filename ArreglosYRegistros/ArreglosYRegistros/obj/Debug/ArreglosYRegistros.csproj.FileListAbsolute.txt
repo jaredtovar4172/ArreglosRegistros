@@ -1,0 +1,14 @@
+C:\Users\jared\source\repos\ArreglosYRegistros\ArreglosYRegistros\bin\Debug\ArreglosYRegistros.exe.config
+C:\Users\jared\source\repos\ArreglosYRegistros\ArreglosYRegistros\bin\Debug\ArreglosYRegistros.exe
+C:\Users\jared\source\repos\ArreglosYRegistros\ArreglosYRegistros\bin\Debug\ArreglosYRegistros.pdb
+C:\Users\jared\source\repos\ArreglosYRegistros\ArreglosYRegistros\obj\Debug\ArreglosYRegistros.csprojAssemblyReference.cache
+C:\Users\jared\source\repos\ArreglosYRegistros\ArreglosYRegistros\obj\Debug\ArreglosYRegistros.DialogBoxCapture.resources
+C:\Users\jared\source\repos\ArreglosYRegistros\ArreglosYRegistros\obj\Debug\ArreglosYRegistros.Form1.resources
+C:\Users\jared\source\repos\ArreglosYRegistros\ArreglosYRegistros\obj\Debug\ArreglosYRegistros.Properties.Resources.resources
+C:\Users\jared\source\repos\ArreglosYRegistros\ArreglosYRegistros\obj\Debug\ArreglosYRegistros.csproj.GenerateResource.cache
+C:\Users\jared\source\repos\ArreglosYRegistros\ArreglosYRegistros\obj\Debug\ArreglosYRegistros.csproj.CoreCompileInputs.cache
+C:\Users\jared\source\repos\ArreglosYRegistros\ArreglosYRegistros\obj\Debug\ArreglosYRegistros.exe
+C:\Users\jared\source\repos\ArreglosYRegistros\ArreglosYRegistros\obj\Debug\ArreglosYRegistros.pdb
+C:\Users\jared\source\repos\ArreglosYRegistros\ArreglosYRegistros\obj\Debug\ArreglosYRegistros.DialogBoxBuscarNombre.resources
+C:\Users\jared\source\repos\ArreglosYRegistros\ArreglosYRegistros\obj\Debug\ArreglosYRegistros.DialogBoxBuscarPrecio.resources
+C:\Users\jared\source\repos\ArreglosYRegistros\ArreglosYRegistros\obj\Debug\ArreglosYRegistros.DialogBoxBuscarExistencia.resources
